@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TotoComboChecker_PY.iml" filepath="$PROJECT_DIR$/.idea/TotoComboChecker_PY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TotoNumComboChecker_PY.iml" filepath="$PROJECT_DIR$/.idea/TotoNumComboChecker_PY.iml" />
     </modules>
   </component>
 </project>
