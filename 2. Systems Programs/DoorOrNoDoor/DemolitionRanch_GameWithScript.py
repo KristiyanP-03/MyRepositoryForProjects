@@ -1,5 +1,5 @@
 from time import sleep
-name = input()
+name = input("Your name is? ")
 print("Denny: Welcome to Door or No Door!")
 sleep(3)
 print("My name is Denny from Denny's doorknobs and doorbells.", end=" ")
@@ -67,7 +67,7 @@ if door_picked_number == 3:
 # part 2 / you have 3 of these mini-bikes
 if misheard_number == 2:
     print("Denny: A brand new, well, almost new motorcycle! Amazing! It's a mini-bike,", end=" ")
-    print("though so you can't actually get it street legal. You just have to ride it like on yhe sidewalk.")
+    print("though so you can't actually get it street legal. You just have to ride it like on the sidewalk.")
     sleep(15)
     unneded_bikes = int(input("Console: You have 3 of these. You meant door number ...? "))
     print("You: I have three of these.")
